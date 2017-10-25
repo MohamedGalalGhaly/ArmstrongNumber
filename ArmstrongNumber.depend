@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508933604 source:/home/mohamed-galal/Desktop/CProjects/ArmstrongNumber/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
